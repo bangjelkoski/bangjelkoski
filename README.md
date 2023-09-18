@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/bangjelkoski)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bangjelkoski/)
 
-I'm building the decentralized future of finance at **[InjectiveLabs](https://github.com/InjectiveLabs)**. Coding is what I do best. Sometimes leading tech teams as well.  
+I'm building a decentralized future of finance at **[InjectiveLabs](https://github.com/InjectiveLabs)**. Coding is what I do best. Sometimes leading tech teams as well. 
 
 Learn more about me at [abojan.me](https://abojan.me)
 
